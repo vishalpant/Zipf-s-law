@@ -1,9 +1,3 @@
-    NAME                SECTION                   CLASS ROLL NO.               UNIV ROLL NO.
-Shivansh Bhasin           C                           25                        2008716
-Vishal Pant               C                           65                        2008757
-Yatin Pandey              C                           72                        2008764
-
-
 OBJECTIVE:
 
 This project demonstrates Zipf's law with respect to a particular file input or a certain input from the user.
@@ -11,11 +5,6 @@ Zipf's law states that the word with the largest frequency will occur very first
 second most used word will appear half as often as the most used word,the third most used word will occur one
 thrice as often as the most used word and so on. Zipf's law as observed follows the 20-80 principle where 20
 percent of the words form about 80 percent of the total words used in a particular file.
-
-ENCLOSURES:
-            sourcecode.txt  (Contains the source code)
-            graph.xlsx (contains the graph mapped on sample.txt)
-            sample.txt  (contains the sample file  for running onto the program) 
 
 REQUIREMENTS:
 
